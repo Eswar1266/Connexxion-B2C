@@ -1,0 +1,27 @@
+{
+  "name": "connexxion-b2c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eswar1266/Connexxion-B2C.git"
+  },
+  "author": "Eswar Abhishek, Ajay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eswar1266/Connexxion-B2C/issues"
+  },
+  "homepage": "https://github.com/Eswar1266/Connexxion-B2C#readme",
+  "engines": {
+    "node": "14.17.1",
+    "npm": "6.14.13"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
